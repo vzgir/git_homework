@@ -1,0 +1,5 @@
+- what is git
+- basic commands
+- version control 
+- branching
+- git config
